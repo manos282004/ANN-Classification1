@@ -4,4 +4,4 @@ numpy
 scikit-learn
 tensorboard
 streamlit
-altair
+altair==4.2.2
